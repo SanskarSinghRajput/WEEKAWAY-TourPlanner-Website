@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/WEEKAWAY-TourPlanner-Website/static/css/main.6ed0a52d.css",
+    "main.js": "/WEEKAWAY-TourPlanner-Website/static/js/main.89476573.js",
+    "static/media/interior.jpg": "/WEEKAWAY-TourPlanner-Website/static/media/interior.b41ac58455ab264ca961.jpg",
+    "static/media/beachVid.mp4": "/WEEKAWAY-TourPlanner-Website/static/media/beachVid.aaafa1c17fc79e9a6d45.mp4",
+    "static/media/resorts.jpg": "/WEEKAWAY-TourPlanner-Website/static/media/resorts.915191b13c096ceec5e0.jpg",
+    "static/media/CruiseImg.jpg": "/WEEKAWAY-TourPlanner-Website/static/media/CruiseImg.86d89f1a628f2539b6ea.jpg",
+    "static/media/beachHotel.jpg": "/WEEKAWAY-TourPlanner-Website/static/media/beachHotel.0458190e700abf689da9.jpg",
+    "static/media/cruieParty.jpg": "/WEEKAWAY-TourPlanner-Website/static/media/cruieParty.4a83826dc4ad0375eac1.jpg",
+    "static/media/contact.jpg": "/WEEKAWAY-TourPlanner-Website/static/media/contact.48dffcff0f4ec0aa74dd.jpg",
+    "static/media/beach.jpg": "/WEEKAWAY-TourPlanner-Website/static/media/beach.26cc6c1d7c410914b5c5.jpg",
+    "static/media/Excurion.jpg": "/WEEKAWAY-TourPlanner-Website/static/media/Excurion.313984b09f27af178650.jpg",
+    "static/media/backImg.jpg": "/WEEKAWAY-TourPlanner-Website/static/media/backImg.79f83867632fe1d836f2.jpg",
+    "static/media/hotel2.jpg": "/WEEKAWAY-TourPlanner-Website/static/media/hotel2.6688ec034ddcedc33782.jpg",
+    "index.html": "/WEEKAWAY-TourPlanner-Website/index.html",
+    "main.6ed0a52d.css.map": "/WEEKAWAY-TourPlanner-Website/static/css/main.6ed0a52d.css.map",
+    "main.89476573.js.map": "/WEEKAWAY-TourPlanner-Website/static/js/main.89476573.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6ed0a52d.css",
+    "static/js/main.89476573.js"
+  ]
+}
